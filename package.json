@@ -1,0 +1,39 @@
+{
+  "name": "contains-chinese",
+  "version": "1.0.0",
+  "description": "Checks whether the input string contains any Chinese text (at least one character). Works with Traditional and Simplified. Unlike the is-chinese package, returns `true` even if the string contains mixed Chinese and non-Chinese characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catcher-in-the-try/contains-chinese.git"
+  },
+  "keywords": [
+    "chinese",
+    "is-chinese",
+    "has-chinese",
+    "contains-chinese",
+    "chinese-language",
+    "traditional-chinese",
+    "simplified-chinese",
+    "regex",
+    "regexp",
+    "han",
+    "hanzi",
+    "characters",
+    "zhongwen",
+    "zh",
+    "zh-HK",
+    "6-4",
+    "cantonese",
+    "mandarin"
+  ],
+  "author": "Anton Ivanov <anton@ivanov.hk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catcher-in-the-try/contains-chinese/issues"
+  },
+  "homepage": "https://github.com/catcher-in-the-try/contains-chinese#readme"
+}
